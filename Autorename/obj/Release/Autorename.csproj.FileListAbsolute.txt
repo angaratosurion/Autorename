@@ -1,0 +1,9 @@
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\Autorename.exe.config
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\NLog.config
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\Autorename.exe
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\Autorename.pdb
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\NLog.dll
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\NLog.xml
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\obj\Release\Autorename.exe
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\obj\Release\Autorename.pdb
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\Delimon.Win32.IO.dll

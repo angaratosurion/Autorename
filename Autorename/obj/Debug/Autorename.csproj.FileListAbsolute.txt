@@ -1,0 +1,13 @@
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\Autorename.exe.config
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\NLog.config
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\Autorename.exe
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\Autorename.pdb
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\NLog.dll
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\NLog.xml
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\obj\Debug\Autorename.csprojResolveAssemblyReference.cache
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\obj\Debug\Autorename.exe
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\obj\Debug\Autorename.pdb
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\Delimon.Win32.IO.dll
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Open Source\Autorename\Autorename\bin\Debug\Autorename.exe.config
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Open Source\Autorename\Autorename\obj\Debug\Autorename.exe
+G:\AutoSyncWithParis-Server\My Programs\dotNet\Open Source\Autorename\Autorename\obj\Debug\Autorename.pdb
