@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CloudFolder\\NextCloud\\MyPrograms\\dotNet\\OpenSource\\Autorename\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112208AF-C38E-4F65-9049-B1B4B4B9CB88}|Autorename\\Autorename.csproj|d:\\cloudfolder\\nextcloud\\myprograms\\dotnet\\opensource\\autorename\\autorename\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112208AF-C38E-4F65-9049-B1B4B4B9CB88}|Autorename\\Autorename.csproj|solutionrelative:autorename\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cs",
+              "DocumentMoniker": "D:\\CloudFolder\\NextCloud\\MyPrograms\\dotNet\\OpenSource\\Autorename\\Autorename\\Core.cs",
+              "RelativeDocumentMoniker": "Autorename\\Core.cs",
+              "ToolTip": "D:\\CloudFolder\\NextCloud\\MyPrograms\\dotNet\\OpenSource\\Autorename\\Autorename\\Core.cs",
+              "RelativeToolTip": "Autorename\\Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T14:22:30.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

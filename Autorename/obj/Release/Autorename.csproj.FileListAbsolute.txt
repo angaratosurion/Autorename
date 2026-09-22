@@ -7,3 +7,15 @@ G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release
 G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\obj\Release\Autorename.exe
 G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\obj\Release\Autorename.pdb
 G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Release\Delimon.Win32.IO.dll
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\obj\Release\Autorename.csproj.AssemblyReference.cache
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\obj\Release\Autorename.csproj.CoreCompileInputs.cache
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\bin\Release\NLog.config
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\bin\Release\Autorename.exe.config
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\bin\Release\Autorename.exe
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\bin\Release\Autorename.pdb
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\obj\Release\Autorename.csproj.Up2Date
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\obj\Release\Autorename.exe
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\obj\Release\Autorename.pdb
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\bin\Release\Delimon.Win32.IO.dll
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\bin\Release\NLog.dll
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\bin\Release\NLog.xml

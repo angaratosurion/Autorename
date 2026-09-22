@@ -11,3 +11,5 @@ G:\AutoSyncWithParis-Server\My Programs\dotNet\Autorename\Autorename\bin\Debug\D
 G:\AutoSyncWithParis-Server\My Programs\dotNet\Open Source\Autorename\Autorename\bin\Debug\Autorename.exe.config
 G:\AutoSyncWithParis-Server\My Programs\dotNet\Open Source\Autorename\Autorename\obj\Debug\Autorename.exe
 G:\AutoSyncWithParis-Server\My Programs\dotNet\Open Source\Autorename\Autorename\obj\Debug\Autorename.pdb
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\obj\Debug\Autorename.csproj.AssemblyReference.cache
+D:\CloudFolder\NextCloud\MyPrograms\dotNet\OpenSource\Autorename\Autorename\obj\Debug\Autorename.csproj.CoreCompileInputs.cache

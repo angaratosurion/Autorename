@@ -31,7 +31,7 @@ SolidCompression=yes
 OutputDir=.\Output\
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
-Name: "greek"; MessagesFile: "compiler:Languages\Greek.isl"
+;Name: "greek"; MessagesFile: "compiler:Languages\Greek.isl"
 
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
